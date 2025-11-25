@@ -1,0 +1,50 @@
+Hello || 안녕하세요
+Hi || 안녕
+Good morning || 좋은 아침입니다
+Good afternoon || 좋은 오후입니다
+Good evening || 좋은 저녁입니다
+Good night || 안녕히 주무세요
+How are you? || 어떻게 지내세요?
+I’m fine || 잘 지내요
+Thank you || 감사합니다
+Thanks || 고마워요
+You’re welcome || 천만에요
+Yes || 네
+No || 아니요
+Excuse me || 실례합니다
+I’m sorry || 죄송합니다
+What’s your name? || 이름이 뭐예요?
+My name is ___ || 제 이름은 ___입니다
+Nice to meet you || 만나서 반갑습니다
+Goodbye || 안녕히 가세요
+See you later || 나중에 봐요
+Please || 제발
+I don’t understand || 이해하지 못했어요
+Do you speak English? || 영어 할 수 있어요?
+I don’t speak Korean || 한국어 못해요
+Can you help me? || 도와주실 수 있나요?
+Where is the bathroom? || 화장실 어디에 있어요?
+How much is this? || 이거 얼마예요?
+I like it || 마음에 들어요
+I don’t like it || 마음에 안 들어요
+I’m hungry || 배고파요
+I’m thirsty || 목말라요
+I’m tired || 피곤해요
+I’m lost || 길을 잃었어요
+I’m happy || 행복해요
+I’m sad || 슬퍼요
+I’m sick || 아파요
+I love you || 사랑해요
+I don’t know || 몰라요
+I understand || 이해했어요
+Let’s go || 갑시다
+Stop || 그만
+Wait || 기다려요
+Come here || 여기로 오세요
+Go there || 저기로 가세요
+What time is it? || 지금 몇 시예요?
+Today || 오늘
+Tomorrow || 내일
+Yesterday || 어제
+Good luck || 행운을 빌어요
+Congratulations || 축하합니다
